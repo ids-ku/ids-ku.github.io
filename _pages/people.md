@@ -37,8 +37,7 @@ Byungjin Cho is an Assistant Professor at Korea University (Sejong). His researc
   </article>
   <article class="student-profile" id="member-kim-jh">
     <figure class="student-profile__portrait">
-      <img src="{{ '/assets/images/bts-jin-placeholder.webp' | relative_url }}" width="104" height="104" loading="lazy" alt="Temporary placeholder portrait of Jin from BTS; not the student's photo.">
-      <figcaption>Temporary photo:<br>Jin (BTS)</figcaption>
+      <img src="{{ '/assets/images/jungha-kim.jpg' | relative_url }}" width="104" height="104" loading="lazy" alt="Jungha Kim" style="object-position: center 20%;">
     </figure>
     <div class="student-profile__body">
       <h3>Jungha Kim</h3>
@@ -48,4 +47,4 @@ Byungjin Cho is an Assistant Professor at Korea University (Sejong). His researc
   </article>
 </div>
 
-<p class="student-photo-credit">Temporary portraits: <a href="https://commons.wikimedia.org/wiki/File:1117_RM_(BTS)_Dispatch_Photo_Shoot_LA_(3).png" title="1117 RM (BTS) Dispatch Photo Shoot LA (3).png">RM (Dispatch Photo Shoot LA, 2017)</a> and <a href="https://commons.wikimedia.org/wiki/File:1117_Jin_(BTS)_Dispatch_Photo_Shoot_LA_(3).png" title="1117 Jin (BTS) Dispatch Photo Shoot LA (3).png">Jin (Dispatch Photo Shoot LA, 2017)</a> by KOREA Dispatch, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>. Cropped for display.</p>
+<p class="student-photo-credit">Temporary portrait: <a href="https://commons.wikimedia.org/wiki/File:1117_RM_(BTS)_Dispatch_Photo_Shoot_LA_(3).png" title="1117 RM (BTS) Dispatch Photo Shoot LA (3).png">RM (Dispatch Photo Shoot LA, 2017)</a> by KOREA Dispatch, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>. Cropped for display.</p>
