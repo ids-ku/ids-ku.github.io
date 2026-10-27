@@ -86,4 +86,14 @@ We examine both the benefit of new information and the communication, computatio
 
 ---
 
-[Explore our publications]({{ '/publications/' | relative_url }})
+## Open Research Questions
+{: #open-questions}
+
+We welcome students and collaborators interested in questions such as:
+
+1. **Edge and Physical AI:** How can robot policies and world models operate within tight memory, power, and response-time budgets?
+2. **Adaptive Resource Allocation:** How should networked systems share communication and computing resources as connectivity and workloads change, while balancing performance, energy use, and carbon emissions?
+3. **Learning with Limited Information:** When is additional information worth its sensing, communication, and computation cost in sequential decision-making?
+4. **Quantum Information under Constraints:** Under what noise and resource conditions can quantum communication, sensing, or algorithms outperform appropriate classical baselines?
+
+If you would like to work on these or related questions, please contact Byungjin Cho at [{{ site.author.email }}](mailto:{{ site.author.email }}) with a brief introduction and your research interests.
