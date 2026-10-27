@@ -17,7 +17,7 @@ Across these domains, our work is organized around three connected questions abo
 *What is achievable, and what performance can be guaranteed?*
 
 <figure class="research-theme__figure">
-  <img src="{{ '/assets/images/research-limits.svg' | relative_url }}" width="480" height="260" loading="lazy" alt="Schematic performance frontier showing the achievable region as the resource budget changes.">
+  <img src="{{ '/assets/images/research-limits.svg' | relative_url }}?v={{ site.time | date: '%Y%m%d%H%M%S' }}" width="480" height="260" loading="lazy" alt="Schematic performance frontier showing the achievable region as the resource budget changes.">
 </figure>
 
 We characterize performance limits and trade-offs in communication, computation, and sensing. Topics include reliability and security, latency and inference accuracy, throughput and power consumption, and the cost of acquiring information. Where the model permits, we derive analytical bounds and algorithmic performance guarantees.
@@ -36,7 +36,7 @@ Our quantum information research includes quantum algorithms, the quantum switch
 *How should systems be configured and resources shared?*
 
 <figure class="research-theme__figure">
-  <img src="{{ '/assets/images/research-resources.svg' | relative_url }}" width="480" height="260" loading="lazy" alt="Tasks and workloads placed, shared, and scheduled across devices, edge resources, and shared computing resources.">
+  <img src="{{ '/assets/images/research-resources.svg' | relative_url }}?v={{ site.time | date: '%Y%m%d%H%M%S' }}" width="480" height="260" loading="lazy" alt="Tasks and workloads placed, shared, and scheduled across devices, edge resources, and shared computing resources.">
 </figure>
 
 In **communication networks**, we study spectrum sharing, interference management, symbiotic radio and backscatter, integrated sensing and communication (ISAC), and UAV and satellite communications. Our work on [secure symbiotic radio]({{ '/publications/#secure-symbiotic-radio' | relative_url }}), for example, connects passive localization with beamforming design. Our [multi-UAV data collection]({{ '/publications/#multi-uav-data-collection' | relative_url }}) research addresses covertness, reliability, and fairness under imperfect channel information.
@@ -53,7 +53,7 @@ In **edge computing and AI systems**, we study task offloading, capacity plannin
 *How should systems act when their environment is not fully known?*
 
 <figure class="research-theme__figure">
-  <img src="{{ '/assets/images/research-decisions.svg' | relative_url }}" width="480" height="260" loading="lazy" alt="An observe, decide, and act loop that learns from feedback under limited or delayed information.">
+  <img src="{{ '/assets/images/research-decisions.svg' | relative_url }}?v={{ site.time | date: '%Y%m%d%H%M%S' }}" width="480" height="260" loading="lazy" alt="An observe, decide, and act loop that learns from feedback under limited or delayed information.">
 </figure>
 
 We develop learning and optimization methods for sequential and distributed decisions. Bandit methods, reinforcement learning, game theory, and optimization help us address partial or delayed feedback, changing environments, and coordination among network participants. We also study algorithmic guarantees, including regret bounds that compare cumulative performance with a specified benchmark under explicit assumptions.
