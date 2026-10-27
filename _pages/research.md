@@ -89,7 +89,7 @@ We examine both the benefit of new information and the communication, computatio
 ## Open Research Questions
 {: #open-questions}
 
-We welcome students and collaborators interested in questions such as:
+These are concrete examples of how our three research themes connect with problems in communication networks, edge computing and AI systems, and quantum information systems.
 
 1. **Edge and Physical AI:** How can robot policies and world models operate within tight memory, power, and response-time budgets?
 2. **Adaptive Resource Allocation:** How should networked systems share communication and computing resources as connectivity and workloads change, while balancing performance, energy use, and carbon emissions?
