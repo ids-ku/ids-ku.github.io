@@ -25,5 +25,5 @@ Byungjin Cho is an Assistant Professor at Korea University (Sejong). His researc
 
 <div class="student-grid">
   <article class="student-profile" id="member-kim-seonghyeon"><h3>Seonghyeon Kim</h3><p>Research Assistant</p><p class="student-profile__research"><strong>Research:</strong> Reinforcement Learning · Autonomous Decision-Making · AI Pilot Agents · Air-Combat Simulation</p></article>
-  <article class="student-profile" id="member-kim-jh"><h3>김정하</h3><p>Research Assistant</p><p class="student-profile__research"><strong>Research:</strong> Edge Inference · Optimization · World Models</p></article>
+  <article class="student-profile" id="member-kim-jh"><h3>Jungha Kim</h3><p>Research Assistant</p><p class="student-profile__research"><strong>Research:</strong> Physical AI · Omnimodal World Models · Edge Inference · Robot Policy Execution · GPU Kernel Optimization · Inference Runtime Systems</p></article>
 </div>

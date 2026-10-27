@@ -61,13 +61,13 @@ We develop learning and optimization methods for sequential and distributed deci
 Our edge research connects two complementary directions:
 
 - **AI for Edge Computing:** learning-based resource management, offloading decisions, and computing capacity planning, including [multi-agent reinforcement learning for vehicular fog computing]({{ '/publications/#marl-capacity-planning' | relative_url }}).
-- **Edge Computing for AI:** communication and computing systems that support efficient AI inference. Examples include adapting video transmission to balance inference accuracy and latency, and tuning device resources to meet throughput and power targets in CORAL.
+- **Edge Computing for AI:** communication and computing systems that support efficient AI inference. Examples include adapting video transmission to balance inference accuracy and latency, and tuning device resources to meet throughput and power targets in CORAL. Current work also targets low-latency robot-policy execution for Physical AI.
 
 We examine both the benefit of new information and the communication, computation, and observation effort required to acquire and use it.
 
 </section>
 
-## Ongoing Projects
+## Ongoing Research
 {: #projects}
 
 <div class="ongoing-projects">
@@ -77,9 +77,10 @@ We examine both the benefit of new information and the communication, computatio
     <p>Reinforcement learning for AI pilot agents in simulated aircraft-pursuit tasks.</p>
   </article>
   <article class="ongoing-project">
-    <h3>Edge Inference and World Models</h3>
-    <p class="ongoing-project__member">Led by <a href="{{ '/people/#member-kim-jh' | relative_url }}">김정하</a></p>
-    <p>Edge inference and optimization for world models.</p>
+    <h3>World Models and Edge Inference for Physical AI</h3>
+    <p class="ongoing-project__member">Led by <a href="{{ '/people/#member-kim-jh' | relative_url }}">Jungha Kim</a></p>
+    <p>Research on omnimodal world models for Physical AI, alongside efficient robot-policy execution on edge devices.</p>
+    <p>A systems study targets dual-camera policy execution on Jetson Orin Nano 8GB, with SO-ARM101 as the evaluation platform. It aims to reduce sensor-to-command latency while verifying numerical agreement and input freshness. Evaluation against PyTorch and TensorRT-based baselines will assess robot responsiveness, the contribution of runtime and GPU kernel optimizations, and power-mode effects.</p>
   </article>
 </div>
 
