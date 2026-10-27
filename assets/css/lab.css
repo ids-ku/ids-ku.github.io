@@ -170,10 +170,8 @@ h3{font-family:var(--sans);font-weight:650}
 }
 @media(max-width:420px){.research-theme__figure{width:min(280px,100%)}}
 
-/* Photo slots keep temporary portraits explicit until student photos arrive. */
+/* Consistent head-and-shoulders portraits match the PI photo's 4:5 frame. */
 .student-profile__portrait{margin:0}
-.student-profile__portrait img{display:block;width:104px;height:104px;object-fit:cover;object-position:center top;background:var(--soft)}
-.student-profile__portrait figcaption{margin-top:6px;font-size:var(--font-news);line-height:1.4;text-align:left}
+.student-profile__portrait img{display:block;width:104px;height:130px;object-fit:cover;object-position:center;background:var(--soft)}
 .student-profile__body{min-width:0}
-.student-photo-credit{font-size:var(--font-news);line-height:1.5}
-@media(max-width:420px){.student-profile{grid-template-columns:88px minmax(0,1fr);gap:16px}.student-profile__portrait img{width:88px;height:88px}}
+@media(max-width:420px){.student-profile{grid-template-columns:88px minmax(0,1fr);gap:16px}.student-profile__portrait img{width:88px;height:110px}}

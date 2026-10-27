@@ -26,8 +26,7 @@ Byungjin Cho is an Assistant Professor at Korea University (Sejong). His researc
 <div class="student-grid">
   <article class="student-profile" id="member-kim-seonghyeon">
     <figure class="student-profile__portrait">
-      <img src="{{ '/assets/images/bts-rm-placeholder.webp' | relative_url }}" width="104" height="104" loading="lazy" alt="Temporary placeholder portrait of RM from BTS; not the student's photo.">
-      <figcaption>Temporary photo:<br>RM (BTS)</figcaption>
+      <img src="{{ '/assets/images/seonghyeon-kim-portrait.webp' | relative_url }}" width="104" height="130" loading="lazy" alt="Seonghyeon Kim">
     </figure>
     <div class="student-profile__body">
       <h3>Seonghyeon Kim</h3>
@@ -37,7 +36,7 @@ Byungjin Cho is an Assistant Professor at Korea University (Sejong). His researc
   </article>
   <article class="student-profile" id="member-kim-jh">
     <figure class="student-profile__portrait">
-      <img src="{{ '/assets/images/jungha-kim.jpg' | relative_url }}" width="104" height="104" loading="lazy" alt="Jungha Kim" style="object-position: center 20%;">
+      <img src="{{ '/assets/images/jungha-kim-portrait.webp' | relative_url }}" width="104" height="130" loading="lazy" alt="Jungha Kim">
     </figure>
     <div class="student-profile__body">
       <h3>Jungha Kim</h3>
@@ -47,4 +46,3 @@ Byungjin Cho is an Assistant Professor at Korea University (Sejong). His researc
   </article>
 </div>
 
-<p class="student-photo-credit">Temporary portrait: <a href="https://commons.wikimedia.org/wiki/File:1117_RM_(BTS)_Dispatch_Photo_Shoot_LA_(3).png" title="1117 RM (BTS) Dispatch Photo Shoot LA (3).png">RM (Dispatch Photo Shoot LA, 2017)</a> by KOREA Dispatch, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>. Cropped for display.</p>
