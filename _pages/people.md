@@ -36,7 +36,7 @@ Byungjin Cho is an Assistant Professor at Korea University (Sejong). His researc
   </article>
   <article class="student-profile" id="member-kim-jh">
     <figure class="student-profile__portrait">
-      <img src="{{ '/assets/images/jungha-kim-portrait.webp' | relative_url }}" width="104" height="130" loading="lazy" alt="Jungha Kim">
+      <img src="{{ '/assets/images/jungha-kim-portrait-smile.webp' | relative_url }}" width="104" height="130" loading="lazy" alt="Jungha Kim">
     </figure>
     <div class="student-profile__body">
       <h3>Jungha Kim</h3>
