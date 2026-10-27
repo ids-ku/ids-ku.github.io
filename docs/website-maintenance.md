@@ -1,6 +1,10 @@
 # Maintaining the IDS Lab website
 
-The site is built with Jekyll and GitHub Pages. The production source is the `master` branch of `byungjincho/byungjincho.github.io`.
+The site is built with Jekyll and GitHub Pages. The target production source is the `master` branch of `ids-ku/ids-ku.github.io`.
+
+## Address migration
+
+This branch prepares the site for `https://ids-ku.github.io/`. Publish and verify the destination site before replacing the old `https://byungjincho.github.io/` site with redirects. Preserve paths, query strings, and anchors when redirecting. The GitHub organization and repository must be created before deployment; their availability is confirmed by GitHub during creation.
 
 ## Main files
 
