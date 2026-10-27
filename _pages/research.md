@@ -96,4 +96,4 @@ These are concrete examples of how our three research themes connect with proble
 3. **Learning with Limited Information:** When is additional information worth its sensing, communication, and computation cost in sequential decision-making?
 4. **Quantum Information under Constraints:** Under what noise and resource conditions can quantum communication, sensing, or algorithms outperform appropriate classical baselines?
 
-If you would like to work on these or related questions, please contact Byungjin Cho at [{{ site.author.email }}](mailto:{{ site.author.email }}) with a brief introduction and your research interests.
+If you would like to work on these or related questions, please visit our [Contact]({{ '/contact/' | relative_url }}) page.
