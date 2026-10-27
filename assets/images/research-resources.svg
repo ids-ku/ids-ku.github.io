@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 260" role="img" aria-labelledby="title desc">
+  <title id="title">System design and resource management</title>
+  <desc id="desc">Tasks flow from connected devices to edge and shared computing resources. Different paths and task placements illustrate how systems share resources and distribute workloads.</desc>
+  <defs>
+    <marker id="flow-arrow" viewBox="0 0 8 8" refX="6" refY="4" markerWidth="5" markerHeight="5" orient="auto"><path d="M1 1 7 4 1 7" fill="none" stroke="#527b91" stroke-width="1.5"/></marker>
+  </defs>
+  <g font-family="Source Sans 3, Segoe UI, Arial, sans-serif" fill="#17232b">
+    <text x="240" y="32" text-anchor="middle" font-size="18" fill="#527b91">Place · Share · Schedule</text>
+    <g fill="none" stroke="#527b91" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M108 96 H187" marker-end="url(#flow-arrow)"/>
+      <path d="M108 157 C144 157 151 128 187 128" marker-end="url(#flow-arrow)"/>
+      <path d="M278 101 H347" marker-end="url(#flow-arrow)"/>
+      <path d="M278 135 C309 135 317 165 348 165" stroke-dasharray="5 5" marker-end="url(#flow-arrow)"/>
+    </g>
+    <g stroke="#17232b" stroke-width="2.5" fill="#fff" stroke-linejoin="round">
+      <rect x="49" y="71" width="45" height="52" rx="5"/>
+      <path d="M61 113 H82"/>
+      <path d="M42 145 H98 V178 H42 Z M34 184 H106"/>
+      <rect x="198" y="77" width="68" height="75" rx="5" fill="#e6eef2" stroke="#527b91"/>
+      <path d="M210 98 H254 M210 114 H254 M210 130 H254" stroke="#9eb4c0"/>
+      <rect x="361" y="67" width="70" height="42" rx="4"/>
+      <rect x="361" y="122" width="70" height="42" rx="4"/>
+      <path d="M372 89 H398 M372 144 H398" stroke="#9eb4c0"/>
+      <circle cx="417" cy="89" r="2" fill="#527b91" stroke="none"/>
+      <circle cx="417" cy="144" r="2" fill="#527b91" stroke="none"/>
+    </g>
+    <g fill="#b57d45">
+      <rect x="127" y="82" width="10" height="10" rx="2"/>
+      <rect x="143" y="82" width="10" height="10" rx="2"/>
+      <rect x="213" y="162" width="10" height="10" rx="2"/>
+      <rect x="229" y="162" width="10" height="10" rx="2"/>
+      <rect x="245" y="162" width="10" height="10" rx="2"/>
+      <rect x="307" y="87" width="10" height="10" rx="2"/>
+    </g>
+    <text x="73" y="221" text-anchor="middle" font-size="19">Devices</text>
+    <text x="232" y="221" text-anchor="middle" font-size="19">Edge</text>
+    <text x="396" y="221" text-anchor="middle" font-size="19">Shared compute</text>
+    <rect x="176" y="241" width="9" height="9" rx="2" fill="#b57d45"/>
+    <text x="194" y="250" font-size="16" fill="#6b7780">Tasks / workloads</text>
+  </g>
+</svg>

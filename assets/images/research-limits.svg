@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 260" role="img" aria-labelledby="title desc">
+  <title id="title">Performance limits and trade-offs</title>
+  <desc id="desc">A schematic achievable region lies below a performance frontier. Two points on the frontier illustrate different resource and performance choices. No experimental or numerical results are shown.</desc>
+  <defs>
+    <marker id="axis-arrow" viewBox="0 0 8 8" refX="6" refY="4" markerWidth="5" markerHeight="5" orient="auto"><path d="M1 1 7 4 1 7" fill="none" stroke="#72828b" stroke-width="1.5"/></marker>
+  </defs>
+  <g font-family="Source Sans 3, Segoe UI, Arial, sans-serif" fill="#17232b">
+    <path d="M66 195 C139 113 242 69 414 47 L414 211 H66 Z" fill="#e6eef2"/>
+    <path d="M66 211 H432 M66 211 V30" fill="none" stroke="#72828b" stroke-width="2" marker-end="url(#axis-arrow)"/>
+    <path d="M66 195 C139 113 242 69 414 47" fill="none" stroke="#527b91" stroke-width="3.5" stroke-linecap="round"/>
+    <path d="M142 211 V129 M291 211 V70" fill="none" stroke="#9eb4c0" stroke-width="1.5" stroke-dasharray="4 5"/>
+    <circle cx="142" cy="129" r="6" fill="#b57d45" stroke="#fff" stroke-width="2"/>
+    <circle cx="291" cy="70" r="6" fill="#b57d45" stroke="#fff" stroke-width="2"/>
+    <text x="262" y="162" text-anchor="middle" font-size="20">Achievable region</text>
+    <text x="259" y="37" text-anchor="middle" font-size="18" fill="#527b91">Performance frontier</text>
+    <text x="250" y="245" text-anchor="middle" font-size="18">Resource budget</text>
+    <text x="25" y="126" text-anchor="middle" font-size="18" transform="rotate(-90 25 126)">Performance</text>
+    <text x="429" y="22" text-anchor="end" font-size="16" fill="#6b7780">Schematic</text>
+  </g>
+</svg>
