@@ -14,6 +14,12 @@
   link: https://doi.org/10.1109/JIOT.2026.3702851
   link_label: Paper
   source: https://api.crossref.org/works/10.1109/JIOT.2026.3702851
+# Dated by the confirmed conference/program month, not an unverified acceptance-notification date.
+- date_label: "Jun. 2026"
+  text: "**Joint Time Scheduling and Reflection Control for Secure and Fair Symbiotic Communication** — accepted for IEEE VTC2026-Spring and listed in the 12 June technical program. To appear."
+  link: /publications/#secure-fair-symbiotic-vtc
+  link_label: Details
+  source: https://events.vtsociety.org/vtc2026-spring/wp-content/uploads/sites/47/2026/06/vtc2026spring_final-program.pdf
 - date_label: "May 2026"
   text: "**Seonghyeon Kim received an Excellence Award (최우수상)** at Korea University (Sejong)'s Spring 2026 Industry-Linked Capstone Design Competition."
   link: https://swuniv.korea.ac.kr/bbs/swuniv/979/268798/artclView.do

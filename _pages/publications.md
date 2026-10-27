@@ -13,6 +13,8 @@ description: "Publications in communication networks, edge computing and AI syst
 
 * <span id="air-ground-offloading"></span>[JIOT] B. Xiang, X. Chen, P. Wu, **B. Cho**, and Z. Chang, “Market-Driven Computation Offloading for Air-Ground Collaborative Vehicular Edge Computing,” in IEEE Internet of Things Journal, vol. 13, no. 16, pp. 36955–36971, Aug. 2026. [DOI](https://doi.org/10.1109/JIOT.2026.3702851)
 
+* <span id="secure-fair-symbiotic-vtc"></span>[VTC] C. Jin, M. Luan, F. Hu, **B. Cho**, I. Pölönen, and Z. Chang, “Joint Time Scheduling and Reflection Control for Secure and Fair Symbiotic Communication,” in Proc. 2026 IEEE 103rd Vehicular Technology Conference (VTC2026-Spring), Nice, France, Jun. 2026. *Accepted; to appear.* [Accepted paper list](https://events.vtsociety.org/vtc2026-spring/wp-content/uploads/sites/47/2026/03/VTC2026-Accepted-Papers.pdf) · [Program](https://events.vtsociety.org/vtc2026-spring/wp-content/uploads/sites/47/2026/06/vtc2026spring_final-program.pdf)
+
 * <span id="coral"></span>[ICFEC] A. N. L. Nabhaan, Z. Sukma, R. D. Rachmanto, M. H. Santriaji, **B. Cho**, A. Setyanto, and I. K. Kim, “Coral: Covariance-Guided Resource Adaptive Learning for Efficient Edge Inference,” in Proc. IEEE International Conference on Fog and Edge Computing (ICFEC), pp. 33–40, May 2026. [DOI](https://doi.org/10.1109/ICFEC69006.2026.00012) · [Preprint](https://arxiv.org/abs/2603.14577)
 
 ## 2025
