@@ -12,7 +12,6 @@ description: "Meet the members of the Information and Decision Systems Lab."
   <div class="pi-profile__body">
     <h3>Byungjin Cho</h3>
     <p>Assistant Professor<br>Department of Computer Science and Software Engineering<br>Korea University (Sejong)</p>
-    <p><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
     <p><a href="{{ site.author.googlescholar }}">Google Scholar</a> · <a href="{{ site.author.orcid }}">ORCID</a></p>
   </div>
 </div>

@@ -78,8 +78,9 @@ h3{font-family:var(--sans);font-weight:650}
 .page-content td,.page-content th{border-bottom:1px solid var(--line);padding:12px;text-align:left}
 .pi-profile{display:flex;gap:32px;align-items:flex-start;margin:24px 0 30px}
 .pi-profile__photo{width:104px;height:130px;flex-shrink:0;object-fit:cover;object-position:center 10%;background:var(--soft)}
-.pi-profile__body h3{font-size:var(--font-body);margin:0 0 13px}
-.pi-profile__body p{font-size:var(--font-small);margin-bottom:12px}
+.pi-profile__body h3{font-size:var(--font-body);margin:0 0 8px}
+.pi-profile__body p{font-size:var(--font-small);line-height:1.5;margin:0 0 6px}
+.pi-profile__body p:last-child{margin-bottom:0}
 .pi-profile~p{font-size:var(--font-small)}
 .site-footer{background:var(--soft);border-top:1px solid var(--line);padding:32px 0}
 .footer-row{display:flex;justify-content:flex-end;text-align:right;font-size:var(--font-small);line-height:1.75}
