@@ -8,7 +8,7 @@ description: "Meet the members of the Information and Decision Systems Lab."
 ## Principal Investigator
 
 <div class="pi-profile">
-  <img class="pi-profile__photo" src="{{ '/images/byungjin-cho-ku.jpg' | relative_url }}" width="180" height="225" alt="Byungjin Cho">
+  <img class="pi-profile__photo" src="{{ '/images/byungjin-cho-ku.jpg' | relative_url }}" width="104" height="130" alt="Byungjin Cho">
   <div class="pi-profile__body">
     <h3>Byungjin Cho</h3>
     <p>Assistant Professor<br>Department of Computer Science and Software Engineering<br>Korea University (Sejong)</p>
