@@ -16,7 +16,7 @@ redirect_from:
 <div class="home-columns">
   <div class="home-about">
     <section class="hero" aria-label="About IDS Lab">
-      <p class="hero-intro">We study <strong>communication networks</strong>, <strong>edge computing and AI systems</strong>, and <strong>quantum information systems</strong>. Across these domains, we investigate how physical constraints, limited resources, and uncertainty shape performance. Our research connects performance limits, trade-offs, and algorithmic guarantees with system design, resource management, and learning and decision-making.</p>
+      <p class="hero-intro">We study how information and decisions shape one another in classical and quantum systems under constraints and uncertainty.</p>
     </section>
     <section class="research-overview" aria-label="Research themes">
       <div class="research-grid">
