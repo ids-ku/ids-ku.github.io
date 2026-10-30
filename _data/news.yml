@@ -1,14 +1,14 @@
 # Newest first. Use confirmed publication and event months.
 - date_label: "Sep. 2026"
-  text: "**Seonghyeon Kim advanced to the finals** of the 2026 AI Pilot Top Gun Challenge at Korea Aerospace University."
-  link: https://aipilot2026.kau.ac.kr/
-  link_label: Competition
-  source: https://kaunews.kau.ac.kr/pages/news.php?mode=read&seq=3812
-- date_label: "Sep. 2026"
   text: "**ISAC-enhanced secure symbiotic radio** — published in IEEE Transactions on Communications."
   link: https://doi.org/10.1109/TCOMM.2026.3731810
   link_label: Paper
   source: https://ieeexplore.ieee.org/document/11683846/
+- date_label: "Aug. 2026"
+  text: "**Joshua Austin Kim received the top award (최우수상)** at the 2026 KU AI Startup Idea Challenge."
+  link: https://software.korea.ac.kr/bbs/news/241/272159/artclView.do
+  link_label: Challenge details
+  source: https://software.korea.ac.kr/bbs/news/241/272159/artclView.do
 - date_label: "Aug. 2026"
   text: "**Market-driven air-ground computation offloading** — published in IEEE Internet of Things Journal."
   link: https://doi.org/10.1109/JIOT.2026.3702851
@@ -21,7 +21,7 @@
   link_label: Details
   source: https://events.vtsociety.org/vtc2026-spring/wp-content/uploads/sites/47/2026/06/vtc2026spring_final-program.pdf
 - date_label: "May 2026"
-  text: "**Seonghyeon Kim received an Excellence Award (최우수상)** at Korea University (Sejong)'s Spring 2026 Industry-Linked Capstone Design Competition."
+  text: "**Joshua Austin Kim received an Excellence Award (최우수상)** at Korea University (Sejong)'s Spring 2026 Industry-Linked Capstone Design Competition."
   link: https://swuniv.korea.ac.kr/bbs/swuniv/979/268798/artclView.do
   link_label: Competition
   source: https://swuniv.korea.ac.kr/bbs/swuniv/979/268798/artclView.do
