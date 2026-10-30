@@ -16,7 +16,7 @@ redirect_from:
 <div class="home-columns">
   <div class="home-about">
     <section class="hero" aria-label="About IDS Lab">
-      <p class="hero-intro">We study how information and decisions shape one another in classical and quantum systems under constraints and uncertainty. We investigate the resulting performance limits and trade-offs to guide the design of communication networks, AI systems, and decision algorithms.</p>
+      <p class="hero-intro">We study how information and decisions shape one another in classical and quantum systems under constraints and uncertainty.</p>
     </section>
     <section class="research-overview" aria-label="Research themes">
       <div class="research-grid">
