@@ -23,12 +23,12 @@ Byungjin Cho is an Assistant Professor at Korea University (Sejong). His researc
 ## Members
 
 <div class="student-grid">
-  <article class="student-profile" id="member-kim-seonghyeon">
+  <article class="student-profile" id="member-joshua-austin-kim">
     <figure class="student-profile__portrait">
-      <img src="{{ '/assets/images/seonghyeon-kim-portrait-white.webp' | relative_url }}" width="104" height="130" loading="lazy" alt="Seonghyeon Kim">
+      <img src="{{ '/assets/images/seonghyeon-kim-portrait-white.webp' | relative_url }}" width="104" height="130" loading="lazy" alt="Joshua Austin Kim">
     </figure>
     <div class="student-profile__body">
-      <h3>Seonghyeon Kim</h3>
+      <h3>Joshua Austin Kim</h3>
       <p>Research Assistant</p>
       <p class="student-profile__research"><strong>Research:</strong> Reinforcement Learning · Autonomous Decision-Making · AI Pilot Agents · Air-Combat Simulation</p>
     </div>
@@ -44,4 +44,3 @@ Byungjin Cho is an Assistant Professor at Korea University (Sejong). His researc
     </div>
   </article>
 </div>
-
