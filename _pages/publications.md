@@ -27,7 +27,7 @@ description: "Publications in communication networks, edge computing and AI syst
 
 * [MMSys] X. Li, E. Vikberg, B. Cho, and Y. Xiao, “Pandia: Open-source Framework for DRL-based Real-time Video Streaming Control,” in Proc. ACM Multimedia Systems Conference (MMSys), vol. 7, pp. 299–305, Apr. 2024.  [link](https://dl.acm.org/doi/10.1145/3625468.3652173)
 
-* [TKDE] B. Cho, Y. Xiao, P. Hui, and D. Dong, “Quantum bandit with amplitude amplification exploration in an adversarial environment,” in IEEE Transactions on Knowledge and Data Engineering (TKDE), vol. 36, no. 1, pp. 311-317, Jan. 2024. [link](https://ieeexplore.ieee.org/abstract/document/10136755)
+* <span id="quantum-bandit"></span>[TKDE] B. Cho, Y. Xiao, P. Hui, and D. Dong, “Quantum bandit with amplitude amplification exploration in an adversarial environment,” in IEEE Transactions on Knowledge and Data Engineering (TKDE), vol. 36, no. 1, pp. 311-317, Jan. 2024. [link](https://ieeexplore.ieee.org/abstract/document/10136755)
 
 ## 2023
 

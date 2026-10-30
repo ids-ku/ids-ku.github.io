@@ -3,7 +3,7 @@ layout: lab
 home: true
 permalink: /
 title: "Information and Decision Systems (IDS) Lab"
-description: "Research in communication networks, edge computing and AI systems, and quantum information systems: performance, resource management, and decision-making."
+description: "Research on AI and Physical AI, communication and edge systems, quantum information, and emerging public-sector decision support."
 redirect_from:
   - /about/
   - /about.html
@@ -16,7 +16,7 @@ redirect_from:
 <div class="home-columns">
   <div class="home-about">
     <section class="hero" aria-label="About IDS Lab">
-      <p class="hero-intro">We study how information and decisions shape one another in classical and quantum systems under constraints and uncertainty.</p>
+      <p class="hero-intro">We study how information and decisions shape one another in classical and quantum systems under constraints and uncertainty. Our work includes efficient AI inference and algorithms for learning and decision-making.</p>
     </section>
     <section class="research-overview" aria-label="Research themes">
       <div class="research-grid">

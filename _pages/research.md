@@ -2,7 +2,7 @@
 layout: lab
 title: "Research"
 permalink: /research/
-description: "Communication networks, edge computing and AI systems, and quantum information systems: performance analysis, resource management, and learning and decision algorithms."
+description: "Performance, resource management, and learning across communication and AI systems, Physical AI, quantum information, and emerging public-sector decision support."
 ---
 
 Our research spans **communication networks**, **edge computing and AI systems**, and **quantum information systems**. We study how physical constraints, limited resources, and uncertainty affect what systems can achieve and how they should be designed and operated. Mathematical modeling and analysis guide our algorithms; simulation, measurement, and system implementation help us evaluate them.
@@ -61,7 +61,11 @@ We develop learning and optimization methods for sequential and distributed deci
 Our edge research connects two complementary directions:
 
 - **AI for Edge Computing:** learning-based resource management, offloading decisions, and computing capacity planning, including [multi-agent reinforcement learning for vehicular fog computing]({{ '/publications/#marl-capacity-planning' | relative_url }}).
-- **Edge Computing for AI:** communication and computing systems that support efficient AI inference. Examples include adapting video transmission to balance inference accuracy and latency, and tuning device resources to meet throughput and power targets in CORAL. Current work also targets low-latency robot-policy execution for Physical AI.
+- **Edge Computing for AI:** communication and computing systems that support efficient AI inference. Examples include adapting video transmission to balance inference accuracy and latency, and tuning device resources to meet throughput and power targets in CORAL. Current work targets efficient robot policy execution for **Physical AI** through runtime and GPU kernel optimization under memory, power, and response-time constraints.
+
+We also study **quantum learning and decision algorithms**. Our [quantum bandit research]({{ '/publications/#quantum-bandit' | relative_url }}) examines amplitude amplification for exploration in adversarial bandit settings.
+
+We are exploring **AI for Public-Sector Decision Support** as an emerging direction in public-sector AI transformation (AX). Our interests include prediction, resource allocation, scheduling, and replanning under uncertainty and operational constraints, with human oversight.
 
 We examine both the benefit of new information and the communication, computation, and observation effort required to acquire and use it.
 
@@ -89,11 +93,12 @@ We examine both the benefit of new information and the communication, computatio
 ## Open Research Questions
 {: #open-questions}
 
-These are concrete examples of how our three research themes connect with problems in communication networks, edge computing and AI systems, and quantum information systems.
+These questions connect our three research themes with communication networks, edge and Physical AI systems, and quantum information, alongside emerging interests in public-sector decision support.
 
 1. **Edge and Physical AI:** How can robot policies and world models operate within tight memory, power, and response-time budgets?
 2. **Adaptive Resource Allocation:** How should networked systems share communication and computing resources as connectivity and workloads change, while balancing performance, energy use, and carbon emissions?
 3. **Learning with Limited Information:** When is additional information worth its sensing, communication, and computation cost in sequential decision-making?
 4. **Quantum Information under Constraints:** Under what noise and resource conditions can quantum communication, sensing, or algorithms outperform appropriate classical baselines?
+5. **Public-Sector AI:** How can prediction and optimization support timely, feasible resource allocation and scheduling in public-sector operations, with human oversight?
 
 If you would like to work on these or related questions, please visit our [Contact]({{ '/contact/' | relative_url }}) page.
