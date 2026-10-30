@@ -1,4 +1,10 @@
 # Newest first. Use confirmed publication and event months.
+# Award, project, approximate team count, and campus distinction confirmed by the lab; event date from the official challenge site.
+- date_label: "Oct. 2026"
+  text: "**Jungha and his team placed third among approximately 100 teams** at the Korea University × AWS AI Innovators Challenge, winning the Encouragement Award (장려상) for ESG ProofOps, an AI tool for reviewing evidence in ESG disclosures. They were the only award-winning team from KU Sejong."
+  link: https://ku-aws-challenge.framer.ai/
+  link_label: Challenge details
+  source: https://ku-aws-challenge.framer.ai/
 - date_label: "Sep. 2026"
   text: "**ISAC-enhanced secure symbiotic radio** — published in IEEE Transactions on Communications."
   link: https://doi.org/10.1109/TCOMM.2026.3731810
