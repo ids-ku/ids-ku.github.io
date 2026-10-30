@@ -73,7 +73,7 @@ We examine both the benefit of new information and the communication, computatio
 <div class="ongoing-projects">
   <article class="ongoing-project">
     <h3>AI Pilots for Aircraft Pursuit</h3>
-    <p class="ongoing-project__member">Led by <a href="{{ '/people/#member-kim-seonghyeon' | relative_url }}">Seonghyeon Kim</a></p>
+    <p class="ongoing-project__member">Led by <a href="{{ '/people/#member-joshua-austin-kim' | relative_url }}">Joshua Austin Kim</a></p>
     <p>Reinforcement learning for AI pilot agents in simulated aircraft-pursuit tasks.</p>
   </article>
   <article class="ongoing-project">
