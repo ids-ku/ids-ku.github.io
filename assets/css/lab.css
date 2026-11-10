@@ -219,3 +219,6 @@ h3{font-family:var(--sans);font-weight:650}
   .page-content .research-part .research-theme{grid-template-columns:minmax(0,1fr)}
   .page-content .research-part .research-theme>.research-theme__figure{grid-column:1;grid-row:4;justify-self:center}
 }
+
+/* Match research prose, questions, descriptors, and member details to body text. */
+.page-content .research-part p,.page-content .research-part li{font-size:var(--font-body)}
