@@ -78,7 +78,7 @@ We examine both the benefit of new information and the communication, computatio
   <article class="ongoing-project">
     <h3><a href="{{ '/research/video2urdf/' | relative_url }}">Video2URDF: Visual Reconstruction for Robotics Simulation</a></h3>
     <p class="ongoing-project__member">Led by <a href="{{ '/people/#member-joshua-austin-kim' | relative_url }}">Joshua Austin Kim</a></p>
-    <p>Reconstructing articulated objects from phone video, with an agent that connects segmentation, joint estimation, and simulation replay. Fifth place in the Indie Developer Track of the Meta Global AI Developer Hackathon 2026. <a href="{{ '/research/video2urdf/' | relative_url }}">Project and judges' feedback</a>.</p>
+    <p>Reconstructing articulated objects from phone video, with an agent that connects segmentation, joint estimation, and simulation replay. Selected as a Top Finalist in the Indie Developer Track of the Meta Global AI Developer Hackathon 2026. <a href="{{ '/research/video2urdf/' | relative_url }}">Project and judges' feedback</a>.</p>
   </article>
   <article class="ongoing-project">
     <h3>AI Pilots for Aircraft Pursuit</h3>

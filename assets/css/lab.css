@@ -177,3 +177,8 @@ h3{font-family:var(--sans);font-weight:650}
 .student-profile__portrait img{display:block;width:104px;height:130px;object-fit:cover;object-position:center;background:var(--soft)}
 .student-profile__body{min-width:0}
 @media(max-width:420px){.student-profile{grid-template-columns:88px minmax(0,1fr);gap:16px}.student-profile__portrait img{width:88px;height:110px}}
+
+/* Responsive project video, with persistent links below the player. */
+.project-video{max-width:720px;margin:22px 0 32px}
+.project-video video{display:block;width:100%;height:auto;aspect-ratio:16/9;background:var(--soft)}
+.project-video figcaption{font-size:var(--font-small);line-height:1.6;margin-top:10px}

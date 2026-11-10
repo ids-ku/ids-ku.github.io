@@ -2,14 +2,24 @@
 layout: lab
 title: "Video2URDF"
 permalink: /research/video2urdf/
-description: "Joshua Austin Kim's Video2URDF: fifth place in the Indie Developer Track of the Meta Global AI Developer Hackathon 2026."
+description: "Joshua Austin Kim's Video2URDF: Top Finalist in the Indie Developer Track of the Meta Global AI Developer Hackathon 2026."
 ---
 
 **From phone video to articulated models for robotics simulation**
 
-Developed by [Joshua Austin Kim]({{ '/people/#member-joshua-austin-kim' | relative_url }}), Video2URDF won **fifth place in the Indie Developer Track**, with a **US$25,000 prize**, at the Meta Global AI Developer Hackathon on November 9, 2026. The organizers reported 20,000 participants and 5,367 submitted projects across both tracks; five finalists were selected in each track.
+Developed by [Joshua Austin Kim]({{ '/people/#member-joshua-austin-kim' | relative_url }}), Video2URDF was selected as a **Top Finalist in the Indie Developer Track** and awarded **US$25,000** at the Meta Global AI Developer Hackathon on November 9, 2026. The organizers reported 20,000 participants and 5,367 submitted projects across both tracks; Video2URDF was one of five finalists selected in its track.
 
 [Project and interactive demos](https://sunghyunc.github.io/video2urdf/) · [Code](https://github.com/SungHyunC/video2urdf) · [Final presentation and judges' feedback](https://vimeo.com/1245287583) · [Award announcement](https://vimeo.com/1245287584)
+
+## Watch the demo
+
+<figure class="project-video">
+  <video controls playsinline preload="metadata" width="960" height="540" aria-label="Video2URDF project demonstration">
+    <source src="https://sunghyunc.github.io/video2urdf/demo.mp4" type="video/mp4">
+    <a href="https://sunghyunc.github.io/video2urdf/demo.mp4">Watch the Video2URDF demo</a>.
+  </video>
+  <figcaption>The developer's 3-minute demonstration: object video, reconstruction, simulation replay, and robot interaction. <a href="https://youtu.be/aK_csSIU24c">Watch on YouTube</a> · <a href="https://sunghyunc.github.io/video2urdf/demo.mp4">Open video</a>.</figcaption>
+</figure>
 
 ## What it does
 
