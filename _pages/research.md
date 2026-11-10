@@ -71,7 +71,9 @@ We connect two complementary directions:
 
 ### Quantum Information Systems
 
-We study how measurement, noise, and available quantum resources affect algorithms, communication, and sensing. Topics include the quantum switch and quantum key distribution (QKD). Our [quantum bandit research]({{ '/publications/#quantum-bandit' | relative_url }}) studies amplitude amplification for exploration in adversarial bandit settings, connecting quantum algorithms with sequential decision-making.
+We study how measurement, noise, and available quantum resources affect algorithms, communication, and sensing. Current work includes **the quantum switch**, where the order of quantum channels is coherently controlled, and quantum key distribution (QKD). A manuscript on the quantum switch has been submitted and is awaiting a decision.
+
+Our [quantum bandit research]({{ '/publications/#quantum-bandit' | relative_url }}) studies amplitude amplification for exploration in adversarial bandit settings, connecting quantum algorithms with sequential decision-making.
 
 ## Ongoing Research
 {: #projects}
