@@ -1,4 +1,10 @@
 # Newest first. Use confirmed publication and event months.
+# Result and prize confirmed in the organizer's November 9 award announcement.
+- date_label: "Nov. 2026"
+  text: "**Joshua won fifth place in the Indie Developer Track (US$25,000)** at the Meta Global AI Developer Hackathon with **Video2URDF**, turning phone video into models for robotics simulation."
+  link: /research/video2urdf/
+  link_label: Project and judges' feedback
+  source: https://vimeo.com/1245287584
 # Award, project, approximate team count, and campus distinction confirmed by the lab; event date from the official challenge site.
 - date_label: "Oct. 2026"
   text: "**Jungha won the Encouragement Award (장려상) at the AWS × KU AI Innovators Challenge (3rd of ~100 teams)**, the only award-winning team from KU Sejong."

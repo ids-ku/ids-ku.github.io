@@ -31,6 +31,7 @@ Byungjin Cho is an Assistant Professor at Korea University (Sejong). His researc
       <h3>Joshua Austin Kim</h3>
       <p>Research Assistant</p>
       <p class="student-profile__research"><strong>Research:</strong> Reinforcement Learning · Autonomous Decision-Making · AI Pilot Agents · Air-Combat Simulation</p>
+      <p><a href="{{ '/research/video2urdf/' | relative_url }}">Video2URDF · Meta hackathon, Indie Track 5th place</a></p>
     </div>
   </article>
   <article class="student-profile" id="member-kim-jh">
