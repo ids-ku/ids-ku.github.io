@@ -5,11 +5,18 @@ permalink: /research/
 description: "Research on performance, system design, and learning across communication networks, edge computing and AI, and quantum information."
 ---
 
-We study how information and decisions shape one another in classical and quantum systems under constraints and uncertainty. Three questions guide our work.<span id="open-questions"></span>
+We study how information and decisions shape one another in classical and quantum systems under constraints and uncertainty.<span id="open-questions"></span>
+
+<section class="research-part" aria-labelledby="research-questions" markdown="1">
+
+<header class="research-part__heading">
+  <h2 id="research-questions"><span class="research-part__number" aria-hidden="true">01</span> Research Questions</h2>
+  <p>What guides our work</p>
+</header>
 
 <section class="research-theme" markdown="1">
 
-## Performance Limits and Trade-offs
+### Performance Limits and Trade-offs
 {: #limits}
 
 *What can systems achieve?*<span id="dt-credibility"></span>
@@ -24,7 +31,7 @@ We study how physical constraints, limited resources, and uncertainty shape perf
 
 <section class="research-theme" markdown="1">
 
-## System Design and Resource Management
+### System Design and Resource Management
 {: #networks}
 
 *How should resources be used?*<span id="dt-synchronization"></span><span id="dt-resources"></span>
@@ -39,7 +46,7 @@ We design systems that coordinate communication, computation, and sensing. Topic
 
 <section class="research-theme" markdown="1">
 
-## Learning and Decision-Making
+### Learning and Decision-Making
 {: #decisions}
 
 *How should systems learn and act?*<span id="dt-decisions"></span>
@@ -52,10 +59,14 @@ We develop learning and optimization methods for decisions with incomplete infor
 
 </section>
 
-## Research Domains
-{: #domains}
+</section>
 
-These questions guide our work across three research domains.
+<section class="research-part" aria-labelledby="domains" markdown="1">
+
+<header class="research-part__heading">
+  <h2 id="domains"><span class="research-part__number" aria-hidden="true">02</span> Research Domains</h2>
+  <p>The systems and problems we study</p>
+</header>
 
 ### Communication Networks
 
@@ -75,8 +86,14 @@ We connect two complementary directions:
 
 We study the performance limits and design of quantum communication, sensing, and algorithms under noise and resource constraints. In quantum communication, our interests include the quantum switch, which coherently controls channel order, and security in quantum key distribution (QKD). Our [quantum bandit research]({{ '/publications/#quantum-bandit' | relative_url }}) examines amplitude amplification for exploration in adversarial bandit settings, connecting quantum algorithms with sequential learning and decision-making.
 
-## Ongoing Research
-{: #projects}
+</section>
+
+<section class="research-part" aria-labelledby="projects" markdown="1">
+
+<header class="research-part__heading">
+  <h2 id="projects"><span class="research-part__number" aria-hidden="true">03</span> Ongoing Research</h2>
+  <p>Current work by lab members</p>
+</header>
 
 <div class="ongoing-projects">
   <article class="ongoing-project" id="dt-models">
@@ -95,5 +112,7 @@ We study the performance limits and design of quantum communication, sensing, an
     <p>World models and efficient robot-policy execution on edge devices.</p>
   </article>
 </div>
+
+</section>
 
 Interested in these or related questions? Please visit our [Contact]({{ '/contact/' | relative_url }}) page.
