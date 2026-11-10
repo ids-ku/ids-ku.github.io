@@ -55,6 +55,8 @@ We develop learning and optimization methods for decisions with incomplete infor
 ## Research Domains
 {: #domains}
 
+These questions guide our work across three research domains.
+
 ### Communication Networks
 
 We design communication systems that balance security, reliability, fairness, and resource use under mobility and imperfect information. Our [ISAC-enhanced symbiotic radio]({{ '/publications/#secure-symbiotic-radio' | relative_url }}) research connects sensing with beamforming for secure communication, while [multi-UAV data collection]({{ '/publications/#multi-uav-data-collection' | relative_url }}) addresses covertness and fairness. Related settings include terrestrial, UAV, and satellite networks.
@@ -71,9 +73,7 @@ We connect two complementary directions:
 
 ### Quantum Information Systems
 
-We study how measurement, noise, and available quantum resources affect algorithms, communication, and sensing. Current work includes **the quantum switch**, where the order of quantum channels is coherently controlled, and quantum key distribution (QKD).
-
-Our [quantum bandit research]({{ '/publications/#quantum-bandit' | relative_url }}) studies amplitude amplification for exploration in adversarial bandit settings, connecting quantum algorithms with sequential decision-making.
+We study the performance limits and design of quantum communication, sensing, and algorithms under noise and resource constraints. In quantum communication, our interests include the quantum switch, which coherently controls channel order, and security in quantum key distribution (QKD). Our [quantum bandit research]({{ '/publications/#quantum-bandit' | relative_url }}) examines amplitude amplification for exploration in adversarial bandit settings, connecting quantum algorithms with sequential learning and decision-making.
 
 ## Ongoing Research
 {: #projects}
