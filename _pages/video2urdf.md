@@ -33,9 +33,9 @@ The central contribution is a **feedback loop between reconstruction and verific
 
 The project includes comparisons with direct model prompting, benchmark evaluations, and documented failure cases. It also distinguishes properties estimated from visual observations from those supplied by model priors. Replay agreement checks consistency with the footage; it does not establish every physical parameter independently. The robot-manipulation demonstrations run in simulation.
 
-## Connection to Our Research Questions
+## Research Context
 
-Video2URDF is our current starting point for [models from observations]({{ '/research/#dt-models' | relative_url }}), the first of our five digital twin research questions. Further questions concern online state updates, prediction reliability, efficient execution, and decisions with imperfect models. Explore the [full research direction]({{ '/research/#digital-twins' | relative_url }}).
+Video2URDF contributes to our **Physical AI** research by turning observations into models that can be tested in simulation. It provides a starting point for digital twin model construction, one topic within our broader [edge computing and AI research]({{ '/research/#edge-ai' | relative_url }}).
 
 ## What the judges highlighted
 

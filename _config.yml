@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "IDS Lab"
 title_separator          : "-"
 name                     : &name "Information and Decision Systems Lab"
-description              : &description "Research on information, learning, and decisions in classical and quantum systems, including digital twins and Physical AI."
+description              : &description "Research on performance, system design, and learning across communication networks, edge computing and AI, and quantum information."
 url                      : https://ids-ku.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ids-ku/ids-ku.github.io"

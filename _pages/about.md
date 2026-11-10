@@ -3,7 +3,7 @@ layout: lab
 home: true
 permalink: /
 title: "Information and Decision Systems (IDS) Lab"
-description: "Research on information, learning, and decisions in classical and quantum systems, including digital twins and Physical AI."
+description: "Research on performance, system design, and learning across communication networks, edge computing and AI, and quantum information."
 redirect_from:
   - /about/
   - /about.html
@@ -20,12 +20,11 @@ redirect_from:
     </section>
     <section class="research-overview" aria-label="Research themes">
       <div class="research-grid">
-        <a class="research-area" href="{{ '/research/#limits' | relative_url }}"><span class="area-number">01</span><div><h3>Performance Limits and Trade-offs</h3><p>What is achievable, and what performance can be guaranteed?</p></div><span class="area-arrow" aria-hidden="true">↗</span></a>
-        <a class="research-area" href="{{ '/research/#networks' | relative_url }}"><span class="area-number">02</span><div><h3>System Design and Resource Management</h3><p>How should systems be configured and resources shared?</p></div><span class="area-arrow" aria-hidden="true">↗</span></a>
-        <a class="research-area" href="{{ '/research/#decisions' | relative_url }}"><span class="area-number">03</span><div><h3>Learning and Decision-Making</h3><p>How should systems act when their environment is not fully known?</p></div><span class="area-arrow" aria-hidden="true">↗</span></a>
+        <a class="research-area" href="{{ '/research/#limits' | relative_url }}"><span class="area-number">01</span><div><h3>Performance Limits and Trade-offs</h3><p>What can systems achieve?</p></div><span class="area-arrow" aria-hidden="true">↗</span></a>
+        <a class="research-area" href="{{ '/research/#networks' | relative_url }}"><span class="area-number">02</span><div><h3>System Design and Resource Management</h3><p>How should resources be used?</p></div><span class="area-arrow" aria-hidden="true">↗</span></a>
+        <a class="research-area" href="{{ '/research/#decisions' | relative_url }}"><span class="area-number">03</span><div><h3>Learning and Decision-Making</h3><p>How should systems learn and act?</p></div><span class="area-arrow" aria-hidden="true">↗</span></a>
       </div>
       <a class="text-link research-details" href="{{ '/research/' | relative_url }}">Explore our research <span aria-hidden="true">→</span></a>
-      <p class="research-details"><a href="{{ '/research/#digital-twins' | relative_url }}">Digital twins: from observations to decisions</a></p>
     </section>
   </div>
   <section class="home-news" aria-labelledby="news-title">
