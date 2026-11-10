@@ -62,7 +62,7 @@ Secure and efficient communication in terrestrial, UAV, and satellite networks, 
 ### Edge Computing and Physical AI
 {: #edge-ai}
 
-<span id="digital-twins"></span>AI for resource management and efficient systems for AI inference. Topics include robot-policy execution, world models, and model construction for digital twins.
+<span id="digital-twins"></span>AI for resource management and efficient systems for AI inference. Topics include edge inference, robot-policy execution, world models, and digital twins.
 
 ### Quantum Information Systems
 
@@ -73,7 +73,7 @@ Quantum algorithms, communication, sensing, and learning under noise and resourc
 
 <div class="ongoing-projects">
   <article class="ongoing-project" id="dt-models">
-    <h3><a href="{{ '/research/video2urdf/' | relative_url }}">Video2URDF</a></h3>
+    <h3><a href="{{ '/research/video2urdf/' | relative_url }}">Digital Twin Model Construction (Video2URDF)</a></h3>
     <p class="ongoing-project__member">Led by <a href="{{ '/people/#member-joshua-austin-kim' | relative_url }}">Joshua Austin Kim</a></p>
     <p>Constructing articulated models from video for robotics simulation and checking their motion against observations.</p>
   </article>
