@@ -57,16 +57,21 @@ We develop learning and optimization methods for decisions with incomplete infor
 
 ### Communication Networks
 
-Secure and efficient communication in terrestrial, UAV, and satellite networks, including symbiotic radio and integrated sensing and communication.
+We design communication systems that balance security, reliability, fairness, and resource use under mobility and imperfect information. Our [ISAC-enhanced symbiotic radio]({{ '/publications/#secure-symbiotic-radio' | relative_url }}) research connects sensing with beamforming for secure communication, while [multi-UAV data collection]({{ '/publications/#multi-uav-data-collection' | relative_url }}) addresses covertness and fairness. Related settings include terrestrial, UAV, and satellite networks.
 
 ### Edge Computing and Physical AI
 {: #edge-ai}
 
-<span id="digital-twins"></span>AI for resource management and efficient systems for AI inference. Topics include edge inference, robot-policy execution, world models, and digital twins.
+We connect two complementary directions:
+
+- **AI for Edge Computing:** learning-based decisions for offloading, capacity planning, and resource allocation. Our [multi-agent reinforcement learning research]({{ '/publications/#marl-capacity-planning' | relative_url }}) addresses vehicular fog computing. We also explore carbon-aware workload placement and scheduling.
+- **Edge Computing for AI:** communication and computing systems for efficient inference. [CORAL]({{ '/publications/#coral' | relative_url }}) studies resource adaptation for edge inference, while [edge video analytics]({{ '/publications/#edge-video-analytics' | relative_url }}) examines accuracy–latency trade-offs. Current work extends to efficient robot-policy execution and world models.
+
+<span id="digital-twins"></span>Within Physical AI, our work on **Digital Twins** starts with [Video2URDF]({{ '/research/video2urdf/' | relative_url }}), which builds articulated simulation models from video and checks their motion against observations.
 
 ### Quantum Information Systems
 
-Quantum algorithms, communication, sensing, and learning under noise and resource constraints, including the quantum switch and quantum key distribution.
+We study how measurement, noise, and available quantum resources affect algorithms, communication, and sensing. Topics include the quantum switch and quantum key distribution (QKD). Our [quantum bandit research]({{ '/publications/#quantum-bandit' | relative_url }}) studies amplitude amplification for exploration in adversarial bandit settings, connecting quantum algorithms with sequential decision-making.
 
 ## Ongoing Research
 {: #projects}
