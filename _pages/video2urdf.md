@@ -14,7 +14,7 @@ Developed by [Joshua Austin Kim]({{ '/people/#member-joshua-austin-kim' | relati
 ## Watch the demo
 
 <figure class="project-video">
-  <video controls playsinline preload="metadata" width="960" height="540" aria-label="Video2URDF project demonstration">
+  <video controls playsinline preload="metadata" poster="https://sunghyunc.github.io/video2urdf/assets/demo_poster.jpg" width="960" height="540" aria-label="Video2URDF project demonstration">
     <source src="https://sunghyunc.github.io/video2urdf/demo.mp4" type="video/mp4">
     <a href="https://sunghyunc.github.io/video2urdf/demo.mp4">Watch the Video2URDF demo</a>.
   </video>
