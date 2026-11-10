@@ -3,7 +3,7 @@ layout: lab
 home: true
 permalink: /
 title: "Information and Decision Systems (IDS) Lab"
-description: "Research on AI and Physical AI, communication and edge systems, quantum information, and emerging public-sector decision support."
+description: "Research on information, learning, and decisions in classical and quantum systems, including digital twins and Physical AI."
 redirect_from:
   - /about/
   - /about.html
@@ -25,6 +25,7 @@ redirect_from:
         <a class="research-area" href="{{ '/research/#decisions' | relative_url }}"><span class="area-number">03</span><div><h3>Learning and Decision-Making</h3><p>How should systems act when their environment is not fully known?</p></div><span class="area-arrow" aria-hidden="true">↗</span></a>
       </div>
       <a class="text-link research-details" href="{{ '/research/' | relative_url }}">Explore our research <span aria-hidden="true">→</span></a>
+      <p class="research-details"><a href="{{ '/research/#digital-twins' | relative_url }}">Digital twins: from observations to decisions</a></p>
     </section>
   </div>
   <section class="home-news" aria-labelledby="news-title">
