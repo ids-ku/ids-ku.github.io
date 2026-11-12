@@ -11,7 +11,6 @@ We study how information and decisions shape one another in classical and quantu
 
 <header class="research-part__heading">
   <h2 id="research-questions"><span class="research-part__number" aria-hidden="true">01</span> Research Questions</h2>
-  <p>What guides our work</p>
 </header>
 
 <div class="research-subsections" markdown="1">
@@ -36,7 +35,7 @@ We study how physical constraints, limited resources, and uncertainty shape perf
 ### System Design and Resource Management
 {: #networks}
 
-*How should resources be used?*<span id="dt-synchronization"></span><span id="dt-resources"></span>
+*How should systems be designed and resources allocated?*<span id="dt-synchronization"></span><span id="dt-resources"></span>
 
 <figure class="research-theme__figure">
   <img src="{{ '/assets/images/research-resources.svg' | relative_url }}?v={{ site.time | date: '%Y%m%d%H%M%S' }}" width="480" height="260" loading="lazy" alt="Workload placement across devices, edge, and shared computing resources, with bandwidth, compute, and energy allocation.">
@@ -51,7 +50,7 @@ We design systems that coordinate communication, computation, and sensing. Topic
 ### Learning and Decision-Making
 {: #decisions}
 
-*How should systems learn and act?*<span id="dt-decisions"></span>
+*How should systems learn and act under uncertainty?*<span id="dt-decisions"></span>
 
 <figure class="research-theme__figure">
   <img src="{{ '/assets/images/research-decisions.svg' | relative_url }}?v={{ site.time | date: '%Y%m%d%H%M%S' }}" width="480" height="260" loading="lazy" alt="An observe, decide, and act loop with a selected action and feedback updates under limited or delayed information.">
@@ -69,7 +68,6 @@ We develop learning and optimization methods for decision-making with incomplete
 
 <header class="research-part__heading">
   <h2 id="domains"><span class="research-part__number" aria-hidden="true">02</span> Research Domains</h2>
-  <p>The systems and problems we study</p>
 </header>
 
 <div class="research-subsections" markdown="1">
@@ -112,7 +110,6 @@ We study the performance limits and design of quantum communication, sensing, an
 
 <header class="research-part__heading">
   <h2 id="projects"><span class="research-part__number" aria-hidden="true">03</span> Ongoing Research</h2>
-  <p>Current work by lab members</p>
 </header>
 
 <div class="research-subsections ongoing-projects">
