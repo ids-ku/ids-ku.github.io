@@ -6,6 +6,7 @@ description: "Research on performance, system design, and learning across commun
 ---
 
 We study how information and decisions shape one another in classical and quantum systems under constraints and uncertainty.<span id="open-questions"></span>
+{: .research-intro}
 
 <section class="research-part" aria-labelledby="research-questions" markdown="1">
 

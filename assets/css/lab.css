@@ -190,7 +190,8 @@ h3{font-family:var(--sans);font-weight:650}
 .page-content .research-part:first-of-type{margin-top:28px}
 .page-content .research-part+.research-part{margin-top:44px}
 .research-part__heading{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:baseline;gap:8px 24px;margin-bottom:24px}
-.page-content .research-part__heading h2{display:flex;align-items:baseline;gap:var(--research-heading-gap);margin:0;margin-inline-start:calc(-1 * var(--research-indent));padding:0;font-size:var(--font-section)}
+.page-content .research-part__heading h2{display:flex;align-items:baseline;gap:var(--research-heading-gap);margin:0;margin-inline-start:calc(-1 * var(--research-indent));padding:0;font-size:var(--font-section);line-height:1.4}
+.page-content .research-part h3{font-size:var(--font-body);line-height:1.4}
 .research-part__number{flex:0 0 var(--research-number-width);width:var(--research-number-width);font-family:var(--sans);font-size:var(--font-section);font-weight:600;font-variant-numeric:tabular-nums;letter-spacing:0}
 .research-part__heading p{margin:0;font-size:var(--font-small);line-height:1.5}
 .page-content .research-part .research-theme{margin-top:0}
@@ -200,7 +201,7 @@ h3{font-family:var(--sans);font-weight:650}
 @media(max-width:760px){
   .page-content .research-part,.page-content .research-part+.research-part{margin-top:36px;padding-top:18px}
   .page-content .research-part:first-of-type{margin-top:26px}
-  .research-part__heading{margin-bottom:22px}
+  .research-part__heading{margin-bottom:24px}
 }
 
 /* Compact research figures and consistent internal spacing. */
@@ -220,13 +221,14 @@ h3{font-family:var(--sans);font-weight:650}
   .page-content .research-part .research-theme>.research-theme__figure{grid-column:1;grid-row:4;justify-self:center}
 }
 
-/* Use the compact ongoing-research text size throughout all three research parts. */
-.page-content .research-part p,.page-content .research-part li{font-size:var(--font-small)}
+/* A consistent prose size and line height across the Research overview. */
+.page-content .research-intro{font-size:var(--font-small);line-height:1.6;margin:0}
+.page-content .research-part p,.page-content .research-part li{font-size:var(--font-small);line-height:1.6}
 
 /* Shared subsection rhythm across questions, domains, and ongoing research. */
-.research-subsections{display:grid;grid-template-columns:minmax(0,1fr);gap:22px;margin:0}
+.research-subsections{display:grid;grid-template-columns:minmax(0,1fr);gap:20px;margin:0}
 .page-content .research-part .research-subsection{min-width:0;margin:0;border:0;padding:0}
-.page-content .research-part .research-subsection+.research-subsection{margin-top:0;border-top:1px solid var(--line);padding-top:18px}
+.page-content .research-part .research-subsection+.research-subsection{margin-top:0;border-top:1px solid var(--line);padding-top:20px}
 .page-content .research-domain>h3{margin:0 0 12px}
 .page-content .research-domain>p,.page-content .research-domain>ul{margin:0 0 12px}
 .page-content .research-domain>ul>li:last-child{margin-bottom:0}
