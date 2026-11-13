@@ -233,3 +233,39 @@ h3{font-family:var(--sans);font-weight:650}
 .page-content .research-domain>p,.page-content .research-domain>ul{margin:0 0 12px}
 .page-content .research-domain>ul>li:last-child{margin-bottom:0}
 .page-content .research-domain>:last-child{margin-bottom:0}
+
+/* Shared typography and spacing across all public lab pages. */
+body{font-size:var(--font-small);line-height:1.6}
+.lab-main :is(p,li,dt,dd,td,th,table,figcaption),
+.home-page .hero-intro,
+.page-content .course-list li,
+.page-content .pi-profile__body p,
+.page-content .student-profile p{font-size:var(--font-small);line-height:1.6}
+.lab-main :where(p){margin:0 0 12px}
+.lab-main h2{font-size:var(--font-section);line-height:1.4}
+.lab-main h3{font-size:var(--font-body);line-height:1.4}
+.page-content>h2{margin:44px 0 24px;padding-top:0}
+.page-content>h2:first-child{margin-top:0}
+.page-content .term-title{font-size:var(--font-body);line-height:1.4;margin:0 0 12px}
+.page-content :where(ul,ol){margin:0 0 12px}
+.page-content li>p:last-child{margin-bottom:0}
+.page-content li:last-child{margin-bottom:0}
+.page-content .course-list{margin:0}
+.page-content .course-list li{margin-bottom:12px}
+.page-content .course-list li:last-child{margin-bottom:0}
+.page-content .pi-profile__body h3,
+.page-content .student-profile h3{margin:0 0 8px}
+.page-content .pi-profile__body p,
+.page-content .student-profile p{margin:0 0 8px}
+.page-content .pi-profile__body p:last-child,
+.page-content .student-profile p:last-child{margin-bottom:0}
+.page-content .student-profile .student-profile__research{margin-top:0}
+.contact-details>div{padding-block:20px}
+.home-page .research-area h3{line-height:1.4;margin-bottom:12px}
+.home-page .area-number{font-size:var(--font-body);line-height:1.4;padding-top:0}
+.home-page .join-strip h2{margin-bottom:12px}
+.home-page .join-strip p{margin-bottom:0}
+.news-body p,.home-page .news-body p{font-size:var(--font-news);line-height:1.6;margin:0}
+.news-date{line-height:1.6;padding-top:0}
+.footer-row{line-height:1.6}
+@media(max-width:760px){.page-content>h2{margin-top:36px}.page-content>h2:first-child{margin-top:0}}

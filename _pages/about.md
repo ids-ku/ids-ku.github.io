@@ -21,8 +21,8 @@ redirect_from:
     <section class="research-overview" aria-label="Research themes">
       <div class="research-grid">
         <a class="research-area" href="{{ '/research/#limits' | relative_url }}"><span class="area-number">01</span><div><h3>Performance Limits and Trade-offs</h3><p>What can systems achieve?</p></div><span class="area-arrow" aria-hidden="true">↗</span></a>
-        <a class="research-area" href="{{ '/research/#networks' | relative_url }}"><span class="area-number">02</span><div><h3>System Design and Resource Management</h3><p>How should resources be used?</p></div><span class="area-arrow" aria-hidden="true">↗</span></a>
-        <a class="research-area" href="{{ '/research/#decisions' | relative_url }}"><span class="area-number">03</span><div><h3>Learning and Decision-Making</h3><p>How should systems learn and act?</p></div><span class="area-arrow" aria-hidden="true">↗</span></a>
+        <a class="research-area" href="{{ '/research/#networks' | relative_url }}"><span class="area-number">02</span><div><h3>System Design and Resource Management</h3><p>How should systems be designed and resources allocated?</p></div><span class="area-arrow" aria-hidden="true">↗</span></a>
+        <a class="research-area" href="{{ '/research/#decisions' | relative_url }}"><span class="area-number">03</span><div><h3>Learning and Decision-Making</h3><p>How should systems learn and act under uncertainty?</p></div><span class="area-arrow" aria-hidden="true">↗</span></a>
       </div>
       <a class="text-link research-details" href="{{ '/research/' | relative_url }}">Explore our research <span aria-hidden="true">→</span></a>
     </section>
