@@ -11,10 +11,9 @@ description: "Meet the members of the Information and Decision Systems Lab."
   <img class="pi-profile__photo" src="{{ '/images/byungjin-cho-ku.jpg' | relative_url }}" width="104" height="130" alt="Byungjin Cho">
   <div class="pi-profile__body">
     <h3>Byungjin Cho</h3>
-    <p>Assistant Professor<br>Department of Computer Science and Software Engineering<br>Korea University (Sejong)</p>
-    <p><a href="{{ site.author.googlescholar }}">Google Scholar</a> · <a href="{{ site.author.orcid }}">ORCID</a></p>
+    <p class="pi-profile__affiliation">Assistant Professor · Department of Computer Science and Software Engineering · Korea University (Sejong)</p>
     <p class="pi-profile__bio">Byungjin Cho is an Assistant Professor at Korea University (Sejong). His research spans communication networks, edge computing and AI systems, and quantum information systems, with a focus on performance analysis, resource management, and learning and decision algorithms. Previously, he was a Senior Research Scientist at Nokia in Finland and an Engineer at SK hynix in Korea. He pursued postdoctoral research and completed his doctoral and master's studies in electrical engineering at Aalto University, Finland.</p>
-    <p><a href="{{ '/talks/' | relative_url }}">Talks and professional service</a> · <a href="{{ '/publications/' | relative_url }}">Publications</a> · <a href="{{ '/teaching/' | relative_url }}">Teaching</a></p>
+    <p class="pi-profile__links"><a href="{{ site.author.googlescholar }}">Google Scholar</a> · <a href="{{ site.author.orcid }}">ORCID</a> · <a href="{{ '/talks/' | relative_url }}">Talks and professional service</a> · <a href="{{ '/publications/' | relative_url }}">Publications</a> · <a href="{{ '/teaching/' | relative_url }}">Teaching</a></p>
   </div>
 </div>
 
