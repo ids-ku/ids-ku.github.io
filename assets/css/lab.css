@@ -179,7 +179,7 @@ h3{font-family:var(--sans);font-weight:650}
 /* Responsive project video, with persistent links below the player. */
 .project-video{max-width:720px;margin:22px 0 32px}
 .project-video video{display:block;width:100%;height:auto;aspect-ratio:16/9;background:var(--soft)}
-.project-video figcaption{font-size:var(--font-small);line-height:1.6;margin-top:10px}
+.project-video figcaption{font-size:var(--font-small);line-height:1.6;margin-top:12px}
 
 /* Consistent text-link interaction across all public pages. */
 .lab-main a:not(.research-area),.site-footer a{text-decoration:none;text-underline-offset:3px}
